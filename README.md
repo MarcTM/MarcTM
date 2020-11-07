@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Marc Torres Martínez</h1>
 <h3 align="center">I'm a Web Development Higher Education student from IES l'Estació, Ontinyent, Valencia</h3>
 
-- 🌱 I’m currently learning **new technologies**
+- 🌱 I’m currently learning new technologies
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarcTM?tab=repositories](https://github.com/MarcTM?tab=repositories)
 
-- 📫 How to reach me **marctorresmartinez@gmail.com**
+- 📫 You can reach me here: **marctorresmartinez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marctorresmartinez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marctorresmartinez" height="30" width="40" /></a>
-<a href="https://instagram.com/marc_tm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marc_tm" height="30" width="40" /></a>
+<a href="https://instagram.com/marc_trm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marc_tm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
