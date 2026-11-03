@@ -5,7 +5,7 @@ Microsoft Certified: Azure Developer Associate (AZ-204) and Azure Data Scientist
 
 ## 🚀 Projects
 
-> Both repositories are private. Happy to walk through the code in an interview.
+> Both repositories are private.
 
 ### [KambioMatch](https://kambiomatch.com) — crypto exchange comparison platform (pre-launch)
 Bilingual (ES/EN) platform comparing 22 exchanges across 66 countries by fees, licences and availability.
